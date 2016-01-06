@@ -1,0 +1,5 @@
+D:\essais\arduinofinder\arduinofinder\bin\Release\arduinofinder.exe
+D:\essais\arduinofinder\arduinofinder\bin\Release\arduinofinder.pdb
+D:\essais\arduinofinder\arduinofinder\obj\Release\ResolveAssemblyReference.cache
+D:\essais\arduinofinder\arduinofinder\obj\Release\arduinofinder.exe
+D:\essais\arduinofinder\arduinofinder\obj\Release\arduinofinder.pdb
